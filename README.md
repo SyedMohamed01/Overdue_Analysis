@@ -1,17 +1,17 @@
 # Overdue Analysis
 
 ## Project Overview
-The **Overdue Analysis** project focuses on identifying and analyzing overdue loans to provide actionable insights for financial institutions. This analysis is essential for monitoring loan performance, understanding delinquency trends, and improving risk management strategies.
+The **Overdue Analysis** project focuses on analyzing overdue loans to uncover patterns and identify risk factors associated with loan defaults. Using Python and Jupyter Notebook, loan and client data were processed and visualized to assess overdue amounts, late payment trends, and repayment behaviors. The analysis provided actionable insights into factors contributing to overdue amounts and highlighted segments at higher risk. This work emphasizes the importance of data-driven strategies in managing risk and implementing proactive measures to reduce default rates.
 
 ## Key Features
-- **Overdue Trends:** Tracks overdue loans over time, categorizing them by late days, loan types, and other criteria.
-- **Portfolio at Risk (PaR):** Calculates the percentage of the loan portfolio at risk due to overdue payments.
-- **Customer Segmentation:** Groups customers based on their repayment behavior and overdue statuses.
-- **Loan Performance Metrics:** Analyzes key indicators such as overdue principal, overdue interest, and total overdue amounts.
+- **Overdue Trends Analysis:** Tracks overdue loans over time, categorizing them by late days, loan types, and other relevant criteria.
+- **Risk Factor Identification:** Identifies the key factors contributing to overdue amounts and highlights high-risk segments.
+- **Customer Segmentation:** Analyzes repayment behaviors to segment customers based on their likelihood to default.
+- **Loan Performance Metrics:** Visualizes overdue amounts and repayment patterns, helping institutions monitor their portfolio’s health.
 
 ## Tools and Technologies
 - **Python**: For data processing and advanced analytics.
-- **Jupyter Notebook**: For an interactive and well-documented analysis.
+- **Jupyter Notebook**: For interactive analysis and clear documentation.
 - **Pandas and NumPy**: To manage and analyze data efficiently.
 - **Matplotlib and Seaborn**: For visualizing overdue trends and distributions.
 
